@@ -1,0 +1,41 @@
+body{
+	background-color: grey;
+}
+
+header{
+	border: 5px black solid;
+	text-align: center;
+
+}
+
+div{
+	padding-bottom: 100px;
+	padding-bottom: 10px;
+}
+
+div section{
+	width: 100%;
+	padding-bottom: 10px;
+	background-color: ghostwhite;
+}
+
+
+footer{
+	background-color: blanchedalmond;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: darkred;
+}
+
+footer section{
+	float: right;
+	padding-right: 10px;
+}
+
+footer p{
+	margin: 0;
+	padding-left: 10px;
+}
+footer a{
+	color: darkred;
+}
